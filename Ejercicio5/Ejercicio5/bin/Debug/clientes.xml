@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cliente>
+    <Codigo>1</Codigo>
+    <RazonSocial>Iker Sertucha Lista</RazonSocial>
+    <CIF>G15068091</CIF>
+    <Compania>FAXPG</Compania>
+    <FechaAlta>02/11/2017</FechaAlta>
+    <Domicilio>Félix Estrada Catoira, 3</Domicilio>
+    <CP>15007</CP>
+    <Pais>España</Pais>
+    <Autonomia>Galicia</Autonomia>
+    <Provincia>A Coruña</Provincia>
+    <Localidad>A Coruña</Localidad>
+    <Telefono>981169336</Telefono>
+    <Movil>981169336</Movil>
+    <Email>faxpg@faxpg.es</Email>
+  </Cliente>
+  <Cliente>
+    <Codigo>2</Codigo>
+    <RazonSocial>Mª Isabel Fernández Álvarez</RazonSocial>
+    <CIF>G32015463</CIF>
+    <Compania>APSOU</Compania>
+    <FechaAlta>03/11/2017</FechaAlta>
+    <Domicilio>Ramón Cabanillas, 6</Domicilio>
+    <CP>32003</CP>
+    <Pais>España</Pais>
+    <Autonomia>Galicia</Autonomia>
+    <Provincia>Ourense</Provincia>
+    <Localidad>Ourense</Localidad>
+    <Telefono>988366012</Telefono>
+    <Movil>988366012</Movil>
+    <Email>apsou@apsou.org</Email>
+  </Cliente>
+  <Cliente>
+    <Codigo>3</Codigo>
+    <RazonSocial>José Antonio Pais Freire</RazonSocial>
+    <CIF>G150411551</CIF>
+    <Compania>APSSC</Compania>
+    <FechaAlta>06/11/2017</FechaAlta>
+    <Domicilio>Poeta Manuel María, 6</Domicilio>
+    <CP>15705</CP>
+    <Pais>España</Pais>
+    <Autonomia>Galicia</Autonomia>
+    <Provincia>A Coruña</Provincia>
+    <Localidad>Santiago de Compostela</Localidad>
+    <Telefono>981582968</Telefono>
+    <Movil>981582968</Movil>
+    <Email>apssc@apssc.es</Email>
+  </Cliente>
+</ArrayOfCliente>

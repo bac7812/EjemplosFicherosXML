@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<pronosticos>
+  <localizacion nombre="Ourense">
+    <temperaturas mañana="4,54" tarde="9,1" noche="2,42" />
+    <pronostico descripcion="viento mínimo" grado="0">
+      <denominacion>Calma</denominacion>
+      <efectos en tierra>El humo sube verticalmente.</efectos en tierra>
+    </pronostico>
+    <pronostico descripcion="viento máximo" grado="5">
+      <denominacion>Fresquito (Brisa fresca)</denominacion>
+      <efectos en tierra>Mueve arbolitos. Se forman ondas en lagos y estanques. Levanta bastante polvo.</efectos en tierra>
+    </pronostico>
+  </localizacion>
+</pronosticos>

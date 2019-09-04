@@ -1,0 +1,18 @@
+﻿<Window x:Name="DirectorioArchivos" x:Class="Ejercicio2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio2"
+        mc:Ignorable="d"
+        Title="Directorio y archivos" Height="550" Width="825" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="22"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ComboBox x:Name="listaComboxBox" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Top" Width="808" Grid.Row="0" SelectionChanged="ListaComboxBox_SelectionChanged"/>
+        <WebBrowser x:Name="mostrarWebBrowser" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Top" Width="808" Height="490" Grid.Row="1"/>
+    </Grid>
+</Window>

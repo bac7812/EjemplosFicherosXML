@@ -1,0 +1,34 @@
+﻿<Window x:Name="Libros" x:Class="Ejercicio6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio6"
+        mc:Ignorable="d"
+        Title="Libros" Height="370" Width="600" ResizeMode="NoResize">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="VerButton" Content="Ver" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Bottom" Width="75" Grid.Column="0" Grid.Row="0" Click="VerButton_Click"/>
+        <Button x:Name="anadirButton" Content="Añadir" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" Width="75" Grid.Column="0" Grid.Row="1" Click="anadirButton_Click"/>
+
+        <DataGrid x:Name="DatosDataGrid" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" Width="450" Height="300" Grid.Column="1" Grid.RowSpan="2" Grid.Row="0" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Codigo" Binding="{Binding Codigo}"/>
+                <DataGridTextColumn Header="Nº de ejemplares" Binding="{Binding NumEjemplares}"/>
+                <DataGridTextColumn Header="ISBN" Binding="{Binding Isbn}"/>
+                <DataGridTextColumn Header="Título" Binding="{Binding Titulo}"/>
+                <DataGridTextColumn Header="Autor" Binding="{Binding Autor}"/>
+                <DataGridTextColumn Header="Descripción" Binding="{Binding Descripcion}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        
+    </Grid>
+</Window>

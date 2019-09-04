@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<libros>
+  <libro codigo="1" numEjemplares="168">
+    <isbn>9788467050028</isbn>
+    <autor>DEFREDS JOSE. A. GOMEZ IGLESIAS</autor>
+    <titulo>HISTORIAS DE UN NAUFRAGO HIPOCONDRIACO</titulo>
+    <descripcion>Un tema sobrevuela por encima del resto: el amor. Escrito desde el corazón, con atención a los pequeños detalles que hacen de la cotidianidad del amor lo que nos permite sobrevivir. De forma sencilla, pero directa. Dando rienda suelta a la imaginación en situaciones especiales de la vida de cualquier persona. Sentimientos, cambios, recuerdos, chicas y chicos, momentos, tristezas y alegrías. No hay poesía ni línea recta. Hay sentimientos. Todos los que da el amor. Todos los que alguna vez vivimos. Aunque no los esperáramos. Aunque fueran sucediendo.</descripcion>
+  </libro>
+  <libro codigo="2" numEjemplares="544">
+    <isbn>9788408177500</isbn>
+    <titulo>YO SOY ERIC ZIMMERMAN</titulo>
+    <autor>MEGAN MAXWELL</autor>
+    <descripcion>Me llamo Eric Zimmerman y soy un poderoso empresario alemán. Me caracterizo por ser un hombre frío e impersonal, que disfruta del sexo sin amor y sin compromiso.</descripcion>
+  </libro>
+</libros>

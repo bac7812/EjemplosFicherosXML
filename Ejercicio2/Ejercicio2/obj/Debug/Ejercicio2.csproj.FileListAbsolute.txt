@@ -1,0 +1,45 @@
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\MainWindow.g.cs
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\App.g.cs
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2_MarkupCompile.cache
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2_MarkupCompile.lref
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\MainWindow.baml
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.g.resources
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.Cache
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\Mio\CURSO\instituto\DAM\2 DAM\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\MainWindow.g.cs
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\App.g.cs
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2_MarkupCompile.cache
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2_MarkupCompile.lref
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\MainWindow.baml
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.g.resources
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.Cache
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\MainWindow.g.cs
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\App.g.cs
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2_MarkupCompile.cache
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2_MarkupCompile.lref
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\MainWindow.baml
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.g.resources
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.Cache
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+G:\CURSO\ACDA\Unidad1\Ejercicios\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb

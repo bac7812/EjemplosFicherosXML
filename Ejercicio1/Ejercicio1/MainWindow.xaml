@@ -1,0 +1,54 @@
+﻿<Window x:Name="FrasesCelebres" x:Class="Ejercicio1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio1"
+        mc:Ignorable="d"
+        Title="Frases celebres" Height="375" Width="1228" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"></ColumnDefinition>
+            <ColumnDefinition Width="90"></ColumnDefinition>
+            <ColumnDefinition Width="90"></ColumnDefinition>
+            <ColumnDefinition Width="90"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="NombreArchivoTextBlock" HorizontalAlignment="Left" Margin="5" TextWrapping="Wrap" Text="Nombre del archivo:" VerticalAlignment="Bottom" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0"/>
+        <TextBox x:Name="NombreArchivoTextBox" HorizontalAlignment="Left" Height="23" Margin="5" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1"/>
+        <Button x:Name="SeleccionarButton" Content="Seleccionar" HorizontalAlignment="Right" Margin="5" VerticalAlignment="Center" Width="75" Grid.Column="1" Grid.Row="1" Click="SeleccionarButton_Click"/>
+        <Button x:Name="VerButton" Content="Ver" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center" Width="75" Grid.Column="2" Grid.Row="1" Click="VerButton_Click"/>
+
+        <TextBlock x:Name="BuscarAutorTextBlock" HorizontalAlignment="Left" Margin="5" TextWrapping="Wrap" Text="Buscar autor:" VerticalAlignment="Bottom" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2"/>
+        <TextBox x:Name="BuscarAutorTextBox" HorizontalAlignment="Left" Height="23" Margin="5" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="3"/>
+        <Button x:Name="BuscarButton" Content="Buscar" HorizontalAlignment="Right" Margin="5" VerticalAlignment="Center" Width="75" Grid.Column="1" Grid.Row="3" Click="BuscarButton_Click"/>
+
+        <TextBlock x:Name="NuevaFraseTextBlock" HorizontalAlignment="Left" Margin="5" TextWrapping="Wrap" Text="Nueva frase:" VerticalAlignment="Bottom" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="4"/>
+        <TextBox x:Name="NuevaFraseTextBox" HorizontalAlignment="Left" Height="23" Margin="5" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="5"/>
+        <TextBlock x:Name="NuevoAutorTextBlock" HorizontalAlignment="Left" Margin="5" TextWrapping="Wrap" Text="Nuevo autor:" VerticalAlignment="Bottom" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="6"/>
+        <TextBox x:Name="NuevoAutorTextBox" HorizontalAlignment="Left" Height="23" Margin="5" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="7"/>
+        <Button x:Name="AñadirButton" Content="Añadir" HorizontalAlignment="Right" Margin="5" VerticalAlignment="Center" Width="75" Grid.Column="1" Grid.Row="7" Click="AñadirButton_Click"/>
+
+        <DataGrid x:Name="FrasesCelebresDataGrid" HorizontalAlignment="Left" Height="259" Margin="5,5,0,0" VerticalAlignment="Top" Width="890" Grid.ColumnSpan="2" Grid.Column="3" Grid.Row="1" Grid.RowSpan="8" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Frase" Binding="{Binding frase}"/>
+                <DataGridTextColumn Header="Autor" Binding="{Binding autor}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button x:Name="AnteriorButton" Content="Anterior" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center" Width="75" Grid.Column="3" Grid.Row="9" Click="AnteriorButton_Click"/>
+        <Button x:Name="SiguienteButton" Content="Siguiente" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center" Width="75" Grid.Column="4" Grid.Row="9" Click="SiguienteButton_Click"/>
+    </Grid>
+</Window>

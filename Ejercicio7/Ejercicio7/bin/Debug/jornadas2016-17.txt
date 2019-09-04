@@ -1,0 +1,77 @@
+Jornada 1
+Atlético - Celta
+Alavés - Levante
+Espanyol - Las Palmas
+Girona - R. Sociedad
+R. Madrid - Villarreal
+Leganés - Athletic
+Valencia - Barcelona
+Deportivo - Getafe
+Betis - Eibar
+Malága - Sevilla
+Jornada 2
+Celta - Levante
+Alavés - Las Palmas
+Espanyol - R. Sociedad
+Girona - Villarreal
+R. Madrid - Athletic
+Leganés - Barcelona
+Valencia - Getafe
+Deportivo - Eibar
+Betis - Sevilla
+Atlético - Malága
+Jornada 3
+Celta - Levante
+Alavés - Las Palmas
+Espanyol - R. Sociedad
+Girona - Villarreal
+R. Madrid - Athletic
+Leganés - Barcelona
+Valencia - Getafe
+Deportivo - Eibar
+Betis - Sevilla
+Atlético - Malága
+Jornada 4
+Levante - Las Palmas
+Alavés - R. Sociedad
+Espanyol - Villarreal
+Girona - Athletic
+R. Madrid - Barcelona
+Leganés - Getafe
+Valencia - Eibar
+Deportivo - Sevilla
+Betis - Malága
+Celta - Atlético
+Jornada 5
+Levante - Las Palmas
+Alavés - R. Sociedad
+Espanyol - Villarreal
+Girona - Athletic
+R. Madrid - Barcelona
+Leganés - Getafe
+Valencia - Eibar
+Deportivo - Sevilla
+Betis - Malága
+Celta - Atlético
+Jornada 6
+Las Palmas - R. Sociedad
+Alavés - Villarreal
+Espanyol - Athletic
+Girona - Barcelona
+R. Madrid - Getafe
+Leganés - Eibar
+Valencia - Sevilla
+Deportivo - Malága
+Betis - Atlético
+Levante - Celta
+Jornada 7
+Las Palmas - R. Sociedad
+Alavés - Villarreal
+Espanyol - Athletic
+Girona - Barcelona
+R. Madrid - Getafe
+Leganés - Eibar
+Valencia - Sevilla
+Deportivo - Malága
+Betis - Atlético
+Levante - Celta

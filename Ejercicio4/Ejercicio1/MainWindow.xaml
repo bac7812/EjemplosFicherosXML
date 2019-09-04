@@ -1,0 +1,23 @@
+﻿<Window x:Name="DirectoriosArchivos" x:Class="Ejercicio1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio1"
+        mc:Ignorable="d"
+        Title="Directorios y archivos" Height="640" Width="550" ResizeMode="NoResize">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="260"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="260"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <TextBlock x:Name="directorioTextBlock" HorizontalAlignment="Left" Margin="5" TextWrapping="Wrap" Text="Directorio:" VerticalAlignment="Bottom" Grid.Row="0"/>
+        <DataGrid x:Name="directorioDataGrid" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center" Height="250"  Width="500" Grid.Row="1" SelectionChanged="DirectorioDataGrid_SelectionChanged"/>
+
+        <TextBlock x:Name="archivosTextBlock" HorizontalAlignment="Left" Margin="5" TextWrapping="Wrap" Text="Archivos:" VerticalAlignment="Bottom" Grid.Row="2"/>
+        <DataGrid x:Name="archivosDataGrid" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center" Height="250"  Width="500" Grid.Row="3"/>
+    </Grid>
+</Window>

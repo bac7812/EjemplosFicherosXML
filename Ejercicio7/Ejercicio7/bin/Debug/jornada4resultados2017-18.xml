@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<jornada numero="4">
+  <partido id="0">
+    <equipo juega="local" goles="3">R. Sociedad</equipo>
+    <equipo juega="visitante" goles="0">Levante</equipo>
+  </partido>
+  <partido id="1">
+    <equipo juega="local" goles="0">Valencia</equipo>
+    <equipo juega="visitante" goles="0">Athletic</equipo>
+  </partido>
+  <partido id="2">
+    <equipo juega="local" goles="0">Espanyol</equipo>
+    <equipo juega="visitante" goles="0">Celta</equipo>
+  </partido>
+  <partido id="3">
+    <equipo juega="local" goles="0">Girona</equipo>
+    <equipo juega="visitante" goles="0">Villarreal</equipo>
+  </partido>
+  <partido id="4">
+    <equipo juega="local" goles="0">Alavés</equipo>
+    <equipo juega="visitante" goles="3">Sevilla</equipo>
+  </partido>
+  <partido id="5">
+    <equipo juega="local" goles="0">Betis</equipo>
+    <equipo juega="visitante" goles="0">Barcelona</equipo>
+  </partido>
+  <partido id="6">
+    <equipo juega="local" goles="0">Atlético</equipo>
+    <equipo juega="visitante" goles="0">Getafe</equipo>
+  </partido>
+  <partido id="7">
+    <equipo juega="local" goles="3">Leganés</equipo>
+    <equipo juega="visitante" goles="0">Las Palmas</equipo>
+  </partido>
+  <partido id="8">
+    <equipo juega="local" goles="0">Malága</equipo>
+    <equipo juega="visitante" goles="0">R. Madrid</equipo>
+  </partido>
+  <partido id="9">
+    <equipo juega="local" goles="0">Eibar</equipo>
+    <equipo juega="visitante" goles="0">Deportivo</equipo>
+  </partido>
+</jornada>
